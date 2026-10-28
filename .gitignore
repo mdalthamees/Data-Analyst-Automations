@@ -1,0 +1,27 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+backend/test.db
+
+# Node
+node_modules/
+frontend/dist/
+frontend/node_modules/
+npm-debug.log*
+
+# Environment & Local
+.env
+.DS_Store
+Thumbs.db
+
+# Storage Data
+data/uploads/*
+!data/uploads/.gitkeep
+data/exports/*
+!data/exports/.gitkeep

@@ -1,0 +1,86 @@
+Order_ID,Order_Date,Customer_ID,Customer_Segment,City,Region,Category,Sub_Category,Quantity,Unit_Price,Discount,Sales,Profit
+ORD-100000,2024-02-05,CUST-1005,Home Office,Hyderabad,Central,Office Supplies,Appliances,6,665.25,0.0,3991.5,1080.01
+ORD-100001,2024-01-13,CUST-1004,Corporate,Delhi,South,Technology,Phones,6,834.9,0.0,5009.4,540.58
+ORD-100002,2024-06-08,CUST-1003,Consumer,Bangalore,North,Office Supplies,Art,11,787.57,0.15,7363.78,1344.17
+ORD-100003,2024-11-22,CUST-1003,Consumer,Coimbatore,West,Office Supplies,Art,1,280.76,0.0,280.76,36.85
+ORD-100004,2024-07-05,CUST-1004,Home Office,Chennai,South,Technology,Laptops,9,858.93,0.0,7730.37,880.6
+ORD-100005,2024-08-30,CUST-1009,Consumer,Bangalore,South,Technology,Accessories,12,296.14,0.05,3376.0,1259.01
+ORD-100006,2024-03-26,CUST-1002,Corporate,Chennai,East,Office Supplies,Art,11,400.6,0.15,3745.61,1064.74
+ORD-100007,2024-10-10,CUST-1009,Home Office,Delhi,Central,Furniture,Furnishings,6,899.59,0.0,5397.54,514.26
+ORD-100008,2024-03-06,CUST-1001,Consumer,Delhi,West,Office Supplies,Binders,13,784.81,0.1,9182.28,3506.97
+ORD-100009,2024-06-18,CUST-1001,Home Office,Coimbatore,North,Office Supplies,Paper,3,1021.33,0.0,3063.99,843.56
+ORD-100010,2024-02-14,CUST-1005,Consumer,Hyderabad,West,Office Supplies,Appliances,4,794.27,0.0,3177.08,1163.81
+ORD-100011,2024-03-02,CUST-1006,Consumer,Bangalore,North,Office Supplies,Appliances,12,688.45,0.05,7848.33,2616.11
+ORD-100012,2024-05-13,CUST-1006,Consumer,Kolkata,Central,Technology,Copiers,11,126.0,0.05,1316.7,93.2
+ORD-100013,2024-10-10,CUST-1003,Corporate,Hyderabad,North,Office Supplies,Art,4,450.74,0.1,1622.66,193.37
+ORD-100014,2024-01-28,CUST-1007,Corporate,Bangalore,East,Furniture,Chairs,3,329.26,0.1,889.0,315.16
+ORD-100015,2024-04-17,CUST-1009,Home Office,Hyderabad,East,Technology,Phones,10,304.13,0.3,2128.91,702.26
+ORD-100016,2024-02-13,CUST-1011,Consumer,Kolkata,East,Furniture,Bookcases,3,1168.02,0.05,3328.86,719.83
+ORD-100017,2024-12-05,CUST-1012,Consumer,Mumbai,East,Furniture,Chairs,3,480.82,0.0,1442.46,347.8
+ORD-100018,2024-10-12,CUST-1010,Corporate,Mumbai,West,Furniture,Chairs,4,1072.08,0.15,3645.07,1640.21
+ORD-100019,2024-11-26,CUST-1008,Consumer,Coimbatore,Central,Furniture,Chairs,7,762.9,0.0,5340.3,606.22
+ORD-100020,2024-05-07,CUST-1006,Corporate,Mumbai,North,Technology,Accessories,4,956.85,0.05,3636.03,1157.99
+ORD-100021,2024-12-13,CUST-1012,Consumer,Mumbai,North,Technology,Phones,9,610.62,0.0,5495.58,1009.02
+ORD-100022,2024-08-18,CUST-1008,Home Office,Pune,East,Furniture,Furnishings,1,698.63,0.0,698.63,126.32
+ORD-100023,2024-07-08,CUST-1012,Consumer,Chennai,East,Furniture,Chairs,8,598.63,0.3,3352.33,1400.54
+ORD-100024,2024-08-12,CUST-1005,Consumer,Pune,South,Technology,Copiers,7,246.36,0.15,1465.84,540.27
+ORD-100025,2024-10-09,CUST-1008,Corporate,Pune,Central,Technology,Copiers,2,871.11,0.1,1568.0,574.56
+ORD-100026,2024-04-30,CUST-1010,Consumer,Coimbatore,West,Technology,Copiers,8,347.72,0.05,2642.67,1202.38
+ORD-100027,2024-04-25,CUST-1012,Consumer,Pune,North,Office Supplies,Storage,1,43.81,0.0,43.81,9.8
+ORD-100028,2024-08-20,CUST-1004,Corporate,Mumbai,South,Office Supplies,Storage,11,779.88,0.0,8578.68,2940.36
+ORD-100029,2024-09-15,CUST-1010,Home Office,Kolkata,South,Office Supplies,Paper,12,224.88,0.0,2698.56,442.97
+ORD-100030,2024-12-24,CUST-1008,Home Office,Coimbatore,North,Furniture,Furnishings,9,1129.44,0.05,9656.71,2687.94
+ORD-100031,2024-07-16,CUST-1010,Corporate,Coimbatore,West,Office Supplies,Storage,9,1145.41,0.1,9277.82,1823.78
+ORD-100032,2024-05-16,CUST-1012,Corporate,Delhi,South,Furniture,Bookcases,2,1099.11,0.1,1978.4,469.79
+ORD-100033,2024-11-13,CUST-1002,Corporate,Coimbatore,South,Furniture,Chairs,7,453.64,0.0,3175.48,1038.79
+ORD-100034,2024-06-13,CUST-1012,Corporate,Delhi,Central,Office Supplies,Storage,14,33.32,0.3,326.54,23.75
+ORD-100035,2024-08-12,CUST-1012,Corporate,Coimbatore,West,Furniture,Chairs,10,1115.06,0.1,10035.54,5987.5
+ORD-100036,2024-11-02,CUST-1005,Home Office,Chennai,South,Office Supplies,Binders,3,522.4,0.05,1488.84,57.94
+ORD-100037,2024-08-21,CUST-1009,Home Office,Mumbai,West,Office Supplies,Binders,7,1160.49,0.1,7311.09,10.57
+ORD-100038,2024-06-20,CUST-1004,Corporate,Coimbatore,North,Technology,Phones,12,1156.89,0.05,13188.55,5650.77
+ORD-100039,2024-05-31,CUST-1011,Consumer,Mumbai,East,Office Supplies,Appliances,10,1025.82,0.0,10258.2,3718.59
+ORD-100040,2024-11-10,CUST-1006,Corporate,Mumbai,South,Technology,Accessories,9,363.92,0.0,3275.28,1088.51
+ORD-100041,2024-06-08,CUST-1001,Consumer,Hyderabad,Central,Office Supplies,Paper,4,471.34,0.15,1602.56,533.82
+ORD-100042,2024-04-05,CUST-1009,Corporate,Coimbatore,North,Office Supplies,Appliances,12,1023.6,0.0,12283.2,2675.23
+ORD-100043,2024-08-20,CUST-1001,Corporate,Bangalore,West,Technology,Laptops,1,390.55,0.0,390.55,22.84
+ORD-100044,2024-06-28,CUST-1005,Home Office,Hyderabad,North,Technology,Phones,2,215.85,0.0,431.7,100.86
+ORD-100045,2024-04-22,CUST-1004,Consumer,Bangalore,South,Office Supplies,Art,1,674.81,0.0,674.81,66.21
+ORD-100046,2024-11-13,CUST-1012,Consumer,Mumbai,West,Furniture,Bookcases,14,1124.34,0.2,12592.61,4980.65
+ORD-100047,2024-02-21,CUST-1003,Home Office,Mumbai,East,Technology,Copiers,12,839.8,0.1,9069.84,1755.28
+ORD-100048,2024-09-24,CUST-1006,Home Office,Hyderabad,North,Furniture,Furnishings,5,690.52,0.05,3279.97,234.22
+ORD-100049,2024-10-21,CUST-1002,Home Office,Hyderabad,South,Furniture,Tables,5,130.15,0.0,650.75,105.52
+ORD-100050,2024-04-22,CUST-1003,Home Office,Bangalore,Central,Furniture,Bookcases,11,743.78,0.05,7772.5,2287.66
+ORD-100051,2024-04-10,CUST-1005,Consumer,Delhi,West,Technology,Accessories,7,1188.21,0.05,7901.6,936.57
+ORD-100052,2024-04-22,CUST-1009,Consumer,Bangalore,North,Furniture,Chairs,9,181.0,0.0,1629.0,117.29
+ORD-100053,2024-03-21,CUST-1002,Corporate,Hyderabad,North,Technology,Accessories,9,629.22,0.05,5379.83,1419.54
+ORD-100054,2024-07-05,CUST-1010,Corporate,Kolkata,East,Furniture,Chairs,3,1054.69,0.0,3164.07,835.61
+ORD-100055,2024-04-22,CUST-1008,Home Office,Hyderabad,East,Office Supplies,Storage,3,892.81,0.1,2410.59,310.36
+ORD-100056,2024-01-02,CUST-1002,Home Office,Kolkata,Central,Office Supplies,Paper,3,840.96,0.1,2270.59,307.01
+ORD-100057,2024-05-09,CUST-1011,Home Office,Chennai,Central,Technology,Phones,4,847.44,0.0,3389.76,887.33
+ORD-100058,2024-08-07,CUST-1005,Corporate,Hyderabad,South,Office Supplies,Binders,8,441.0,0.0,3528.0,-143.43
+ORD-100059,2024-02-23,CUST-1007,Corporate,Chennai,South,Office Supplies,Storage,6,362.91,0.1,1959.71,-65.34
+ORD-100060,2024-12-08,CUST-1008,Corporate,Delhi,Central,Furniture,Chairs,8,974.09,0.05,7403.08,671.31
+ORD-100061,2024-08-11,CUST-1001,Corporate,Bangalore,Central,Technology,Accessories,1,974.98,0.2,779.98,141.63
+ORD-100062,2024-08-12,CUST-1006,Corporate,Kolkata,West,Furniture,Bookcases,8,1042.48,0.1,7505.86,2071.34
+ORD-100063,2024-05-05,CUST-1001,Corporate,Bangalore,East,Furniture,Tables,4,1097.19,0.0,4388.76,2131.02
+ORD-100064,2024-05-09,CUST-1002,Corporate,Chennai,South,Furniture,Tables,11,620.94,0.0,6830.34,2557.13
+ORD-100065,2024-02-22,CUST-1001,Home Office,Kolkata,East,Furniture,Furnishings,1,609.3,0.1,548.37,104.85
+ORD-100066,2024-06-20,CUST-1011,Home Office,Bangalore,East,Furniture,Chairs,8,960.98,0.0,7687.84,1665.01
+ORD-100067,2024-08-05,CUST-1005,Home Office,Hyderabad,Central,Furniture,Bookcases,4,785.21,0.05,2983.8,117.99
+ORD-100068,2024-06-08,CUST-1010,Home Office,Mumbai,West,Furniture,Bookcases,6,846.83,0.2,4064.78,880.71
+ORD-100069,2024-07-16,CUST-1009,Corporate,Chennai,North,Technology,Copiers,8,958.01,0.05,7280.88,1223.49
+ORD-100070,2024-09-03,CUST-1006,Consumer,Bangalore,West,Office Supplies,Paper,4,1069.66,0.0,4278.64,1189.84
+ORD-100071,2024-11-19,CUST-1011,Corporate,Chennai,West,Furniture,Furnishings,14,415.52,0.1,5235.55,372.24
+ORD-100072,2024-07-21,CUST-1011,Consumer,Pune,East,Furniture,Chairs,3,460.07,0.05,1311.2,411.04
+ORD-100073,2024-07-02,CUST-1001,Home Office,Chennai,West,Furniture,Furnishings,14,126.37,0.05,1680.72,833.46
+ORD-100074,2024-05-02,CUST-1001,Corporate,Kolkata,South,Furniture,Furnishings,9,700.26,0.2,5041.87,1010.51
+ORD-100075,2024-09-11,CUST-1002,Home Office,Pune,East,Furniture,Tables,3,57.59,0.0,172.77,50.5
+ORD-100076,2024-10-20,CUST-1009,Corporate,Coimbatore,South,Furniture,Chairs,9,566.73,0.3,3570.4,1229.02
+ORD-100077,2024-10-06,CUST-1003,Home Office,Kolkata,North,Office Supplies,Art,13,658.03,0.2,6843.51,1011.34
+ORD-100078,2024-11-20,CUST-1001,Consumer,Mumbai,East,Office Supplies,Storage,2,354.55,0.0,709.1,184.6
+ORD-100079,2024-04-07,CUST-1005,Consumer,Pune,North,Furniture,Chairs,14,715.14,0.0,10011.96,2225.32
+ORD-100000,2024-02-05,CUST-1005,Home Office,Hyderabad,Central,Office Supplies,Appliances,6,665.25,0.0,3991.5,1080.01
+ORD-100001,2024-01-13,CUST-1004,Corporate,Delhi,South,Technology,Phones,6,834.9,0.0,5009.4,540.58
+ORD-100002,2024-06-08,CUST-1003,Consumer,Bangalore,North,Office Supplies,Art,11,787.57,0.15,7363.78,1344.17
+ORD-100003,2024-11-22,CUST-1003,Consumer,Coimbatore,West,Office Supplies,Art,1,280.76,0.0,280.76,36.85
+ORD-100004,2024-07-05,CUST-1004,Home Office,Chennai,South,Technology,Laptops,9,858.93,0.0,7730.37,880.6
